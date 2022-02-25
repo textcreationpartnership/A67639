@@ -1,0 +1,457 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vindication of the solemnity of the nativity of Christ shewing the grounds upon which the observation of that and other festivalls is justified in the church : with a short answer to certaine quaeries propounded by one Ioseph Heming in oppositon to the aforesayd practise of the church / by Thomas Warmstry ...</title>
+            <author>Warmstry, Thomas, 1610-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67639</idno>
+            <idno type="STC">Wing W893</idno>
+            <idno type="STC">ESTC R12863</idno>
+            <idno type="EEBO-CITATION">13803618</idno>
+            <idno type="OCLC">ocm 13803618</idno>
+            <idno type="VID">101967</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101967)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 854:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vindication of the solemnity of the nativity of Christ shewing the grounds upon which the observation of that and other festivalls is justified in the church : with a short answer to certaine quaeries propounded by one Ioseph Heming in oppositon to the aforesayd practise of the church / by Thomas Warmstry ...</title>
+                  <author>Warmstry, Thomas, 1610-1665.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Nativity --  Early works to 1800.</term>
+               <term>Heming, Joseph.</term>
+               <term>Church of England --  Customs and practices.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101967:1" rendition="simple:additions"/>
+            <p>THE VINDICATION of the SOLEMNITY Of the Nativity of CHRIST; Shewing the grounds upon which the Obſervati<g ref="char:EOLhyphen"/>on of that and other Feſtivalls is juſtified in the Church.</p>
+            <p>With a ſhort Anſwer to certaine Quaeries propounded by one <hi>Ioſeph Heming,</hi> in oppoſi<g ref="char:EOLhyphen"/>tion to the aforeſayd practiſe of the Church.</p>
+            <p>By <hi>Thomas Warmſtry.</hi> D. D.</p>
+            <q>Let us follow after things that make for peace, and things where<g ref="char:EOLhyphen"/>with we may edifie one another. <bibl>
+                  <hi>Rom. 14.19.</hi>
+               </bibl>
+            </q>
+            <q>Vnto you is borne this day a Saviour, which is Chriſt the Lord. <bibl>
+                  <hi>Luk. 1.11.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101967:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:101967:2" rendition="simple:additions"/>
+            <head>The Vindication of the ſolemnity of the Na<g ref="char:EOLhyphen"/>tivity of Chriſt, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Efore I come to anſwer theſe Queries, that I may make way for the clearing of mens judgements, I ſhall briefely lay downe the grounds upon which the obſervation of this, and other Feſtivalls is juſtified in the Church; which are theſe.</p>
+            <p>Firſt, It is a thing not onely lawfull, but juſtly due unto God, that he ſhould be prai<g ref="char:EOLhyphen"/>ſed publickly and ſolemnely for this, and other ſuch like great bleſſings as he hath beſtowed upon the Church by Chriſt, and that to this end the memory of them ſhould be preſerved in the Church.</p>
+            <p>Secondly, That for theſe ends, the Obſervation of a yearely day of memoriall is a meanes conducible in it ſelfe, and approved by God in Scripture, who made uſe thereof among the ancient people to ſummon, and ſtirre them up thereby to the praiſe of God for thoſe great bleſſings and deliverances which were beſtowed upon them.</p>
+            <p>Thirdly, That the appoyntment of ſuch dayes being conduci<g ref="char:EOLhyphen"/>ble to thoſe ends before named, which are Scripture ends, hath ſo far its ground in the word of God.</p>
+            <p>Fourthly, That the Church hath a power from God to pro<g ref="char:EOLhyphen"/>mote thoſe ends which are commanded in his word, by all kinde of meanes which are not contrary thereunto, and ſuch a mean<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is this appointment of dayes, which hath been with approbation practiſed by the Church, even in the time of the Jewiſh Bondage, in the deſignation and ordaining of Feſtivalls yearely to be ob<g ref="char:EOLhyphen"/>ſerved,
+<pb n="4" facs="tcp:101967:3" rendition="simple:additions"/>which were not enjoyned by any expreſſe command of God, as is cleerely to be ſeene in the inſtitution of the Feaſt of Purim, <hi>Eſther.</hi> 9.17. <hi>&amp;c.</hi> and of the Feaſt of Dedication, <hi>Machab.</hi> 4.59. honoured and confirmed by the preſence of our Saviour, <hi>Job.</hi> 10.22.23.</p>
+            <p>Fiftly, That this power in the Church is, though unobſervedly, yet in cleare conſequence, is confirmed by divers arguments from the allowance and practiſe of Adverſaries themſelves.</p>
+            <p>As firſt, looke what power private Miniſters challenge, that they muſt much more allow the Church: But they challenge a power to appoynt times for publick worſhip, which are not ex<g ref="char:EOLhyphen"/>preſly commanded by God as upon Lecture dayes: <hi>E go,</hi> And there can be no reaſon why hey ſhould have more power to ap<g ref="char:EOLhyphen"/>poynt an houre or more in a day, then the Church a day or more in a ye are.</p>
+            <p>Secondly, There is as good reaſon that the Church ſhould ap<g ref="char:EOLhyphen"/>poynt dayes of f<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſting, which are not commanded by God, as d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes of faſting, which are not commanded by God; ſince the end of the former is as exceptable to God, and more excellent then the latter, and hath no plea againſt it, that lyes not equally a<g ref="char:EOLhyphen"/>gainſt the latter.</p>
+            <p>Thirdly, That there is much more reaſon that the Church ſhould appoynt ſolemne dayes for praiſing God for Chriſt, and for ſpirituall bleſſi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, then for remporall ones: But the latter is al<g ref="char:EOLhyphen"/>lowed and pract<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed by the Parliament, as may appeare by the late Ordinance for the obſervation of the fifth of <hi>November,</hi> in me<g ref="char:EOLhyphen"/>moriall of the deliverance of that very State, Church, and Reli<g ref="char:EOLhyphen"/>gion <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an outward deſtruction, which themſelves now perſe<g ref="char:EOLhyphen"/>cute: by the Army, in appoynting dayes of Thankſgiving for their bloody Victories other their brothren, in an impious way. There<g ref="char:EOLhyphen"/>fore the former, <hi>viz.</hi> the appoynement of ſolemne dayes for grea<g ref="char:EOLhyphen"/>ter and ſp<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tuall bleſſings, cannot reaſonably be condemned by them.</p>
+            <p>Six<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly, This appoyntment of dayes to the purpoſes aforeſayd, is no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, as no<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ying in opoſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion to any Law of G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of excellent uſe and benefit to Gods people. 1. To preſerve and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the memory of theſe great bleſſings. 2. To ſtir up the people to the duties or praiſe.</p>
+            <p n="3">
+               <pb n="5" facs="tcp:101967:3" rendition="simple:additions"/>3. To call upon the Miniſters in their ſeverall charges to ſtudy, and handle thoſe great, and neceſſary parts of Chriſtian know<g ref="char:EOLhyphen"/>ledge. 4. To give ſo many opportunities for the aſſembling of the people to holy duties. 5. For the rendring of thoſe great and myſticall bleſſings familiar unto the people, thereby that being fulfilled in this ſenſe, that the Pſalmiſt ſpeaketh in the 9. <hi>Pſal. One day telleth another, and one night certifieth another; there is neither ſpeech nor language, yet their ſpeeches are heard among them.</hi> Thus it comes to paſſe that the Calender of the Church, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Cycle of the Feſtivalls preſents, is as it were an eaſie and familiar Catechiſme unto the people, and doth inſtruct them almoſt whether they wil or no in the apprehenſions or thoſe high points and comfortable mo<g ref="char:EOLhyphen"/>tions of the conception, na<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivity, Circumciſion, Manifeſtation to the Gentiles, preſentation in the Temple, of the death and paſ<g ref="char:EOLhyphen"/>ſion, reſurrection, Aſcention of Chriſt into Heaven, and of the ſending of the holy Ghoſt, to bring home the fruit of all; which are as ſo many parts of the holy Antheme of the Church, the Epi<g ref="char:EOLhyphen"/>phon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ma, or cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe of all which is in the Feſtivall of the T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inity, which is unto all the reſt as the <hi>Glory be to the Father, to the Sonne, and to the holy Ghoſt</hi> &amp;c. at the cloſe of a Pſalme, calling upon us to give honour and praiſe unto the Trinity for all thoſe incom<g ref="char:EOLhyphen"/>prehenſible bleſſings and benefits whereby the worke of mans re<g ref="char:EOLhyphen"/>demption is perfected and brought home unto us: This wiſe<g ref="char:EOLhyphen"/>dome and piety of the Church is not underſtood, nor conſidered by thoſe heady and haire brain'd people, that waigh things in the corrupt ſcales of o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their owne contradictory and anteccleſiaſticall ſpirit; but they that are ſober and peaceable diſcover and admire it, and bleſſe God for it, and do foreſee with ſad hearts the deſignes of Satan moving againſt this Church of ours, by the aboliſhing of theſe and and other uſefull Ordinances and cuſtomes, to blot out by degrees the memory of the great and ineſtimable bleſſings of God in Chriſt, and to open the doore to prophaneſſe and infideli<g ref="char:EOLhyphen"/>ty: to the former benefits may be added, the mercy that doth hereby accrue unto ſervants, and the poore beaſts in a relaxation of their labours upon ſuch daies, the incitements that they admi<g ref="char:EOLhyphen"/>niſter unto workes of charity, neighbourhood, and hoſpitality; things very pleaſing in the ſight of God, howſoever diſliked by thoſe of this age that place religion in cruelty, Faction, and Se<g ref="char:EOLhyphen"/>dition;
+<pb n="6" facs="tcp:101967:4" rendition="simple:additions"/>and the nurcery, and ſupply that is thereby ſuggeſted unto the exerciſe of our ſpirituall joy, and delight in God, and his goodneſſe.</p>
+            <p>Laſtly, The authority of the Church both ancient and modern, both generall, and of this particular Church, comming upon us with all theſe warrants, and conveniences to ſerve the ends of God and Scripture, and ſtrengthened by the power of the civill Magiſtrate, and by the authenticall Lawes of the Kingdome in thoſe Acts of Parliament which have eſtabliſht theſe things, muſt either engage all that are within the verge of the Church, and of this Church and State eſpecially, unto a peaceable and pious obe<g ref="char:EOLhyphen"/>dience thereunto, or elſe leave the ſtaine of Impiety, Faction, and of a turbulent and diſorderly ſpirit, or elſe of folly and blind<g ref="char:EOLhyphen"/>neſſe upon all thoſe that oppoſe it.</p>
+            <p>Indeed there is nothing free from temptations; but it is well ſaid of one, as I remember, and may be well conſidered of others, <hi>that it is not</hi> (at leaſt not alwaies) <hi>the infirmity, but the excellency of things that maketh them the matter of temptation:</hi> Abuſes of things that are good muſt teach us wiſedome and caution, but not ſet us upon confuſion.</p>
+            <p>And truly there is need of more warines in the obſervation of theſe daies then hath been uſed by many.</p>
+            <p n="1">1. That ſuperſtitio<g ref="char:cmbAbbrStroke">̄</g> be avoided, that we think not one day in it ſelf better or more holy then another, but only ſo far as they are actual<g ref="char:EOLhyphen"/>ly deſigned or applyed unto the ſervice of God: we muſt remember that theſe and other particular times, as places, are but circumſtan<g ref="char:EOLhyphen"/>ces in the time of the Goſpell, the ſubſtance is in the worſhip and ſervice that is given unto God thereupon, not in the obſervation of this or that particular day, which is in it ſelfe a matter of liberty, as the Apoſtle ſheweth, <hi>Rom.</hi> 14.5. <hi>&amp;c. Col.</hi> 2.16. And that may be a ſatisfactory reaſon why in the new Teſtament theſe things are not particularly, or expreſly injoined in Scripture, becauſe theſe are but matters of Order, and of liberty; not of abſolute ne<g ref="char:EOLhyphen"/>ceſſity, and therefore left to the moderation of the Church; but then we muſt remember that the liberty of Chriſtians is firſt the right and intereſt of the Body, and then of the Members, who muſt not urge their particular intereſt againſt publique moderations and conſtitutions in theſe things; yea, it is a maine liberty that belongs
+<pb n="7" facs="tcp:101967:4" rendition="simple:additions"/>unto the whole body of the Church, that ſhe hath power to re<g ref="char:EOLhyphen"/>ſtra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne the liberty of private Members by publique authority for the publique good; but Superſtition muſt be avoided, as I have ſaid; noe humane authority muſt impoſe theſe, or any ſuch like things, as ſubſtantiall, unalterable, or abſolutely neceſſary to ſalva<g ref="char:EOLhyphen"/>tion; but as matters of Order, as holy circumſtances, and meanes conducible unto higher ends, and ſo and no otherwiſe they are to be received and obeyed by the people: according to this is that of a late learned Father of our Church, <hi>Non putandum plus ſancti<g ref="char:EOLhyphen"/>tatis uni di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i ineſſe quam alteri, ſad ſciendum quod propter ordinem &amp;. praeceptum Eccleſiae aliaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cauſas ſupra memoratas uno die magis quam alio convenimus, ad hac exercitia ſanctitatis.</hi>
+            </p>
+            <p>And againe, <hi>Non putandum,</hi>
+               <note place="margin">Biſhop <hi>Davenant</hi> upon the Coloſſ. c. 2. v. 16.</note> 
+               <hi>&amp;c.</hi> we are <hi>not to thinke</hi> that the <hi>Church of God is tyed by any neceſſity to the immutable obſervation of theſe particular Feſtivall daies:</hi> Sed ſtatuendum, <hi>ſaith he, dies hoſce humanâ authoritate conſtitutos câdem poſſe tolli &amp; mutari, ſi utilitas &amp; neceſſitas Eccleſiae id poſtulaverit, nam omnis res per quaſcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>: Cauſas naſcitur per caſdem diſſolvitur: But it muſt be ſo judged, that theſe daies which are appointed by humane authority may be aboliſhed, and altered by the ſame: where the profit and neceſſity of the Church doth require it; for all things are diſſolved by the ſame cauſes whereby they are eſtabli<g ref="char:EOLhyphen"/>ſhed:</hi> But then this ought to be done upon good and true grounds, and by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> power equall at leaſt to that that hath eſtabliſhed them.</p>
+            <p n="2">2. There muſt be care taken that there be a prudent modera<g ref="char:EOLhyphen"/>tion uſed in the number of ſuch daies, that nothing be impoſed o<g ref="char:EOLhyphen"/>over burdenſome upon the people.</p>
+            <p n="3">3. That they be rightly imployed, not in Superſtitious wor<g ref="char:EOLhyphen"/>ſhiping of Saints or Angels, as is in uſe in the Church of Rome, nor yet in riot, intemperance, or any other ſinfull liberty, as hath been the practiſe of too many amongſt us, making little or no o<g ref="char:EOLhyphen"/>ther uſe of ſuch times, but to give themſelves to idleneſſe, looſe<g ref="char:EOLhyphen"/>neſſe, and vanity; an evill that hath not onely violated the holi<g ref="char:EOLhyphen"/>neſſe of theſe Feſtivals we ſpeak of, but alſo the Lords day, which ſome have turned into <hi>Sabbathum Vituli aurei,</hi> into the <hi>Sabbath of the Golden Calfe,</hi> of which it is ſaid, <hi>Exod.</hi> 32. That <hi>The people ſate downe to cate and drinke, and roſe up to play.</hi> Others into <hi>Sabbathum B<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> &amp; Aſinorum,</hi> the <hi>Sabbath of the Oxe and the Aſſe,</hi> ſpending it in eating and drinking, and doing nothing; and too many
+<pb n="8" facs="tcp:101967:5" rendition="simple:additions"/>make little or no other difference betweene that and other dayes: But onely in putting on their better cloathes, and giving them<g ref="char:EOLhyphen"/>ſelves to none, or elſe worſe imployment then all the reſt of the weeke, as if <hi>bene veſtiri &amp; nihil agere,</hi> To be well attired, and to doe nothing were to celebrate the Chriſtian Sabbath.</p>
+            <p>And indeed it cannot be denyed, but as this hath been the ill lot that too many have caſt upon the Lords day, and other Feſtivalls: So it hath been too too much the ſhare of the Solemnities appoyn<g ref="char:EOLhyphen"/>ted for the celebrating the Birth of our Saviour, and the reſt of the Feſtivalls that the Church hath joyned with it, which inſtead of being made dayes of prayſe and thankſgiving to God, and of the exerciſe of other holy, chriſtian, and charitable duties with that ſobriety that becomes Chriſtians, have been made dayes of riot, and gaming, and wantonneſſe, and unlawfull liberty, as if men were to ſacrifice to the Devill for theſe great and incomprehenſible mercies of God: A great and intollerable abuſe of ſuch bleſſed opportunities, and ſuch as, (although it doth not at al juſtifie men in the abolition of them, but ſhould rather have ſet them upon the Reformation of thoſe miſcarriages, and the reſtitution of ſuch times unto the firſt and prefitable inſtitution of them, That theſe evills and corruptions being removed, the divine Solemnities, and Religious Duties might have been returned and advanced ſtill a<g ref="char:EOLhyphen"/>mongſt us, to the comfort of the Church, and the honour of the name of God) Yet they may juſtly provoke God to deprive us of the comfort of theſe joyfull Celebrities, which wee have ſo miſerably abuſed to his diſhonour, and the hurt of our ſelves, and of our brethren: But theſe being the errours of particular men, they do not blemiſh the conſtitution of the Church in theſe things, which intendeth not ſuch times for ſuch evill purpoſes, but for the ſervice and honour of God, and the edification of his people. And therefore as it muſt be the care of all good Chriſtians to ſeperate the abuſes in practice? So it is their part and duty to yeeld a rea<g ref="char:EOLhyphen"/>dy obedience unto ſo profitable and wholeſome a conſtitution; and as in other Feſtivalls, ſo in this of the Nativity of Chriſt, &amp;c. This being as it were the <hi>riſing of the Sunne of righteouſneſſe upon us with healing in his wings,</hi> and that whereon all the ſuccedent worke of our redemption and ſalvation doth depend: And therefore as this doth in an eminent and ſpeciall manner cha<g ref="char:EOLhyphen"/>lenge
+<pb n="9" facs="tcp:101967:5" rendition="simple:additions"/>our praiſes and ſolemne ſervices and acknowledgments unto God for ſo great a mercy: So the Authority of the Church in ap<g ref="char:EOLhyphen"/>poynting a ſolemne time, for ſuch ſolemne ſervice doth ſerve an ho<g ref="char:EOLhyphen"/>ly and Scripture end, very acceptable to God, and by ſuch a meanes, which he himſelfe hath approved, and allowed the Church of God to make uſe off, and doth juſtly require our obedience thereunto, which wee cannot withdraw ordinarily, without making a breach in that Communion of Saints, which is both our comfort to enjoy, and our duty to maintaine,</p>
+            <p>And theſe grounds being thus layd, and well underſtood, I hope may ſatisfie any peaceable minded Chriſtians, and arme them againſt all materiall temptations that your Queries (which you ſeeme to thinke ſuch Giants) can offer againſt it; and therefore I might well though perhaps ſet a period heere unto this preſent buſineſſe: But leſt you ſhould thinke your ſelfe deſpiſed, or grow wiſe in your owne conceipt, and for your further correction, and the more full ſatisfacti<g ref="char:EOLhyphen"/>on of others, I offer you and them this ſhort anſwer unto your Que<g ref="char:EOLhyphen"/>ries; and if you or any other ſhall thinke them in any thing wanting in that cleareneſſe which yours, and ſome other mens apprehenſions may perhaps require; I ſhall by Gods grace be ready if I may be al<g ref="char:EOLhyphen"/>lowed liberty to doe it: To render all things out of queſtion and to reſolve all doubts that may reſt behinde in a faire, calme, and Chriſti<g ref="char:EOLhyphen"/>an diſputation, and diſcuſſion of the point with you or any other that ſhall in a ſober and ingenuous way deſire to enter into diſcourſe with me thereabout.</p>
+            <p>In the meane time take this briefe Reply unto your Demands.</p>
+            <div type="part">
+               <head>To your firſt Quaere.</head>
+               <p>
+                  <hi>Whether ſuch religious cuſtomes as are binding to all the Chur<g ref="char:EOLhyphen"/>ches of Jeſus Chriſt, ought not to have ſure footing upon the Word of God or Apoſtolicall practice?</hi>
+               </p>
+               <p>
+                  <hi>Anſwer,</hi> That it is ground enough for the eſtabliſhment of Cuſt<g ref="char:EOLhyphen"/>omes in the Church, and to bind all Churches to the Chriſtian obſer<g ref="char:EOLhyphen"/>vation the roof, ſo far as is required unto Church Cuſtomes, and mat<g ref="char:EOLhyphen"/>ters of order. <hi>&amp;c.</hi> That ſuch Cuſtomes and Obſervations beingin themſelves harmeleſſe, and conducible to thoſe ends which Gods
+<pb n="10" facs="tcp:101967:6" rendition="simple:additions"/>word preſcribeth, are commanded unto us by the Authority of the Church Catholick; and becauſe this quaere is ſomewhat too wide for the particular drift you aime at; give me leave to take away all doubt, to contract it a little by adding this Corolary: That in ſuch things the Authority of any particular Church is ſufficient to binde thoſe that are within the Verge of it. The Examples of the Feaſt of Purim and of Dedication before mentioned will come in ſeaſonably heere for the confirmation of this.</p>
+            </div>
+            <div type="part">
+               <head>To your ſecond Quaere.</head>
+               <p>
+                  <hi>Whether you can ſubſtantially prove that Chriſt was borne on the</hi> 25 <hi>of</hi> December? <hi>And what your proofes are?</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> That becauſe as wee have layd downe the deſignation of this or that particular day is a thing in it ſelfe indifferent (though the day being knowne wherein ſuch mercies were performed may ſeeme more convenient then another.) The maine thing that wee reſt upon being this: That God may be ſolemnely praiſed for ſo great a mercy, and to this end, that that day what ever it be, which is ſet apart by the Church for that holy purpoſe be duely obſerved: Therefore al<g ref="char:EOLhyphen"/>though there is perhaps more to be ſayd heerin then you are a ware of; yet to make ſhort worke, and that they may be the eaſilier ſatisfied, who are not able to examine Antiquities: I anſwer that it is not at all neceſſary for us to prove ſubſtantially that Chriſt was borne upon the 25 of <hi>December;</hi> it is ſufficient for us that the Authority of the Church hath appoynted that day to performe the duty of praiſe therefore unto God, neither doe wee ſo much depend upon that day, but if upon good reaſon and equall Authority had deſigned any other, it might be indifferent to us; ſo that God may have his honour in the ſolemnization of his great mercies, whether in this moneth, or that moneth, on this day, or that day, is of ſmall concernment, but in poynt of order, peace, uniformity, and obedience; to dote upon this or that day otherwiſe were ſuperſtitious.</p>
+            </div>
+            <div type="part">
+               <head>To your third Quaere.</head>
+               <p>
+                  <hi>Whether the celebration of that day (grant he was borne on it)
+<pb n="11" facs="tcp:101967:6" rendition="simple:additions"/>can be clearely warranted by you from Scripture? And what your Scriptures are?</hi>
+               </p>
+               <p>
+                  <hi>Anſwer,</hi> It is anſwered already in the Reply made to the two for<g ref="char:EOLhyphen"/>mer, where you have beene ſhewed, that it is neither neceſſary to be proved that Chriſt was borne upon that day, nor yet that there needes any particular Scripture warrant for the obſervation of ſuch dayes, more then is expreſſed in the anſwer to the firſt, and the grounds that are layd before you, and ſo much as hath been ſhewed wee have abun<g ref="char:EOLhyphen"/>dantly for this day. <hi>Viz.</hi> That the Church hath power to appoynt a day for ſo holy and excellent an end preſcribed in Scripture, and warranted unto us by the practice of a Quire of Angells, of <hi>Simeon</hi> and <hi>Anna, Zachary</hi> and <hi>Elizabeth,</hi> in the Divine Story.</p>
+            </div>
+            <div type="part">
+               <head>To your fourth Quaere.</head>
+               <p>
+                  <hi>Whether you can cleare it by ſound conſequence from the New Teſtament, though not ſet downe there</hi> in totidem verbis?</p>
+               <p>
+                  <hi>Anſwer,</hi> That which hath been ſayd may ſuffice, in that the cele<g ref="char:EOLhyphen"/>bration of this day is appoynted by ſufficient Authority, for thoſe ends which are commanded in the New Teſtament, as is the rendring praiſe to God for ſo great a bleſſing of the New Teſtament, and is a meanes allowed by God for ſuch purpoſe, and conducible thereunto, as hath been ſhewed in the grounds.</p>
+            </div>
+            <div type="part">
+               <head>To the fifth Quaere.</head>
+               <p>
+                  <hi>Whether you can doe it by univerſall tradition?</hi>
+               </p>
+               <p>
+                  <hi>Anſwer,</hi> That it is well knowne that the obſervation of this day hath been very Ancient, and doth appeare to be of univerſall recep<g ref="char:EOLhyphen"/>tion; as (if leaſure and opportunity would permit) might be mani<g ref="char:EOLhyphen"/>feſted more abundantly, but for the preſent it may ſuffice to ſet down that notable teſtimony of St. <hi>Cyprian,</hi> a very Ancient Father, in his booke <hi>de Nativitate Chriſts in initio. Adeſs</hi> (ſaith he, ſpeaking of this Feſtivall of the Nativity of Chriſt) <hi>Chriſti multum deſiderata &amp;
+<pb n="12" facs="tcp:101967:7" rendition="simple:additions"/>diu expectata Nativitas, adeſt Solemnit as inclita, &amp; in praeſentia ſal<g ref="char:EOLhyphen"/>vatoris, grates, &amp; landes, Viſitatori (no per orbem terrarum Sancta reddit Eccleſia. There is now preſent the much deſired, and long expected Nativity of Chriſt; now is preſent that famous Solemnity or Feſtivall, and the holy Church throughout all the World doth render thankes and praiſes to her viſiter in the preſence of our Saviour;</hi> and though it be ſufficient to binde us; that ſo wholeſome cuſtome is enjoyned by Authenticall Authority in this Church and Nation; yet this and other teſtimonies that might be brought of the Antiquity and univerſality thereof, doe much ſtrengthen the obligation that lyes upon us, for the Religious obſervation thereof.</p>
+            </div>
+            <div type="part">
+               <head>To your ſixt Quaere.</head>
+               <p>
+                  <hi>Whether (in caſe it can be evidenced by none of theſe, <hi>viz</hi> plaine Text, ſolled Inference, univerſall Tradition) it be not a meere humane in vention, and ſo Will worſhip? And how you will one day acquit yourſelves before God, for placing, and crying up mens Inventions, inſtead of the inſtitutions of Ieſus Chriſt? And whether it were not faithfull dealing with poore ſimple people to tell them that you have neither of theſe to warrant it?</hi>
+               </p>
+               <p>I anſwer, it is already avoyded, and needeth no further Reply but this, firſt, that you have been taught if you can learne that wee have inference enough to ſatisfie men that will be content with evidence, and wiſh you would attempt nothing in the Church, but what you could pleade halfe ſo much for: Secondly, that the obſervation of theſe particular dayes is not enjoyned by the Church, or uſed by us, as any ſubſtantially part of worſhip, but as a circumſtance of worſhip, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> can be no will-worſhip, no more then your appoynting this or that particular houre for preaching, and prayer upon a Lecture day, or the appoynting of dayes of thankſgiving for Victories, for tempo<g ref="char:EOLhyphen"/>rall deliverances, or of Publique Faſts by humane Authority (which as to the deſignation of the particular times are unqueſtionably of humane invention) are therefore to be accounted will-worſhip; un<g ref="char:EOLhyphen"/>leſſ you will have the will-worſhip to lye in this; that theſe dayes wee ſpeake off are appoynted by good and full Authority, and that
+<pb n="13" facs="tcp:101967:7" rendition="simple:additions"/>Chriſt is remembred therein; and now I intreate you to conſider how you will one day acquit your ſelfe before God, for ſlandering and cry<g ref="char:EOLhyphen"/>ing downe the wholeſome orders and conſtitutions of the Church, to bring in diviſion, confuſion, and prophanation; and whether it were not faithfull dealing with thoſe poore ſimple people, that you or others have ſeduced into ſeditious and factious courſes, and murmurings a<g ref="char:EOLhyphen"/>gainſt Government and Order, to tell them that you underſtood not things your ſelves, nor have taught them in the wayes of peace and righteouſneſſe, as you ſhould have done.</p>
+            </div>
+            <div type="part">
+               <head>To your ſeaventh Quaere.</head>
+               <p>
+                  <hi>(Since dayes and times commanded by God himſelfe to be ob<g ref="char:EOLhyphen"/>ſerved under the Law, were and are unlawfull under the Goſpel) Whether dayes and times commanded by men, and not by God, under the Goſpell, are not leſſe lawfull.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Thoſe daies and times that were commanded by God him<g ref="char:EOLhyphen"/>ſelfe to be obſerved under the Law, were appointed by him for that time, as types and figures of the things of Chriſt, as Saint <hi>Paul</hi> will inſtruct you <hi>Coloſſ.</hi> 2.16.17. and in regard of that typicall uſe, and the Legall neceſſity thereof are vaniſhed at the comming of Chriſt, which is the body and ſubſtance of thoſe ſhaddowes; and therefore though they be ſo far become unlawfull, it will by no meanes. infer that therefore thoſe daies and times which are commanded by men with ſufficient warrant from God under the Goſpell as conducible meanes unto Goſpell-ends, and for the ſolemnizing of the glory of God for Goſpell bleſſings, ſhould be concluded unlawfull, ſince the aforeſaid reaſon of the abolition of thoſe things of the Law, is no way applicable unto the Feſtivals, or other wholſome conſtitutions in the time of the Goſpell, which are neither injoyned as types, nor as things neceſſary to ſalvation, but as matters of order, and circum<g ref="char:EOLhyphen"/>ſtantiall meanes for the promotion of other ſubſtantiall duties, not oppoſing, but aſſerting and magnifying the great bleſſings that God hath revealed, and imparted unto us in, and by, the Meſſias now come. But for your further inſtruction, I deſire you to take notice, that in the Feaſts of the Jewes, as there was ſomething Ceremoniall, ſo there
+<pb n="14" facs="tcp:101967:8" rendition="simple:additions"/>was ſomething Morrall: that they were of unalterable neceſſity re<g ref="char:EOLhyphen"/>ſtrained to ſuch and ſuch particular times, that they were to be cele<g ref="char:EOLhyphen"/>brated with ſuch and ſuch particular Ceremonies, and were therein types and figures of the things of Chriſt, and the time of the Goſpell, and that by the indiſpencible obligation of the divine praecept; in theſe and ſuch like conſiderations, they were Ceremoniall and temporary, belonging unto that Sate of the Jewiſh Church; But if they be conſi<g ref="char:EOLhyphen"/>dered as they were certaine ſolemne and convenient times ſet apart for the publique worſhip of God, and for the more ſolemne teſtifica<g ref="char:EOLhyphen"/>tion of their thankfulneſſe unto him, for thoſe great bleſſings and de<g ref="char:EOLhyphen"/>liverances that they received from him; This was, as a learned Au<g ref="char:EOLhyphen"/>thour tells us, <hi>morale, &amp; naturale, &amp; cum caeter is omnibus gentibus commune,</hi> it was <hi>morall</hi> and <hi>naturall,</hi> and <hi>common with them vnto other nations.</hi> Now though that which is typicall and ceremoniall be abo<g ref="char:EOLhyphen"/>liſhed as a ſhadow by the comming of the ſubſtance, yet that which is morall and naturall remayneth; it is ſtill not only lawfull, but pious for the Jewes to ſet apart ſome times to prayſe God for their delive<g ref="char:EOLhyphen"/>rance out of Aegypt, and for thoſe other bleſſings which that Church received from him, and ſo that the typicall and properly legall uſe, to<g ref="char:EOLhyphen"/>gether with the indiſpenſable neceſſity of thoſe particular times and ceremonies be caſt away, it were no impiety in them, as matters of order, to make uſe of ſome or more of the ſame times which they for<g ref="char:EOLhyphen"/>merly obſerved for this morall purpoſe. Yea we find St Paul Acts 18.21. and 20.16. reſolving and indeavouring to keepe one of thoſe Jew<g ref="char:EOLhyphen"/>iſh feaſts at Jeruſalem, long after the aſcenſion of Chriſt and the abo<g ref="char:EOLhyphen"/>lition of the ceremoniall part of the Jewiſh Law, and to take advan<g ref="char:EOLhyphen"/>tage of that ſolemnity to glorifie God amongſt them. And if all this will not ſave you from a wonder, I intreat you to conſider that the effect of the abolition of the Ceremoniall Law, was the taking away of the legall neceſſity and the typicall uſe of them, not the rendering of the matter of thoſe Ceremonies unlawfull; and for your better ſa<g ref="char:EOLhyphen"/>tisfaction in this point, I refer you to a Treatiſe of mine lately ſet forth, called, <hi>The ſighs of the Church and Common Wealth of England,</hi> pag. 312.313. &amp;c. where I hope you will find this matter abundantly cleared.<note place="margin">
+                     <hi>Daven.</hi> a Coloſſ. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.16.</note> And now the foundation of your ſeventh Quaere being thus ſearched and found to be of ſo ſandy a conſtitution, we need not trou<g ref="char:EOLhyphen"/>ble our ſelves any more about the Quaere it ſelfe: but to tell you in the words of a Reverend Divine, <hi>Quicquid nonnulli contrà afferre ſolent
+<pb n="15" facs="tcp:101967:8" rendition="simple:additions"/>piè &amp; pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>denter prospectum eſt ab Antiquis patribus, ut anniverſariè in Eccleſia celebrarentur ingentia illa beneficia incarnationis filii 'Dei, paſſionis, reſurrectionis, aſcenſionis, miſſionis Spiritus Sancti, quorum omnium memoriam ſolennitatibus conſtitut is conſecramus, no volumi<g ref="char:EOLhyphen"/>ne temporum ingrata ſurreperet nobis oblivio,</hi> ut loquitur Aug. de Ci<g ref="char:EOLhyphen"/>vit. Dei. lib. 10. c. 4. <hi>Whatſoever ſome are wont to bring to the contra<g ref="char:EOLhyphen"/>ry, it was piouſly and prudently provided of the ancient Fathers, That there ſhould be anniverſary or yearely celebrations of thoſe great benefits, of the incarnation of the ſonne of God, of his paſſion, reſurrection, aſcenſi<g ref="char:EOLhyphen"/>on, and of the ſending of the Holy Ghoſt; the memorialls of all which, we conſecrate by appointed ſolemnities, leſt, as S. Aug. ſpeaketh, by the courſe of the times an unthankfull forgetfulnes therof ſhould ſteale upon us.</hi> And the ſame learned Authour will ſhew you that we are invited heerunto by the obligation of gratitude that we owe unto God, as publique be<g ref="char:EOLhyphen"/>nefits are to be publiquely acknowledged, and to be celebrated with publique thankſgiving: which cannot commodiouſly be done, unleſſe they that have the rule of the Church and Common wealth, doe ap<g ref="char:EOLhyphen"/>point ſet dayes for the people to come together to that purpoſe Joel. 2.15.</p>
+               <p>That we are incouraged heereunto by the peoples benefit which they may reape heereby in being upon ſuch occaſions made acquain<g ref="char:EOLhyphen"/>ted with the chiefe myſteries of ſalvation, which whether they ſhalbe inſtructed in, or no, is a matter of too great concernment, to be left to the diſcretion of every private Miniſter; and therefore the Church hath thought fit to call upon them for it by theſe Feſtivals. And I pray God the attempts of the abolition of theſe memorialls, be not the drifts of ſome ſecret plot of Sathan, to make way for the ſtealing of Chriſtianity out of this Nation: if we conſider the motions of ſome other engines of his, together with this in theſe times, I doubt wee may find but too much cauſe to ſuſpect it, and cauſe enough for all good people to deſire to prevent it, by being unwilling to part with a<g ref="char:EOLhyphen"/>ny the leaſt lawfull meanes, that may ſerve to keep up the memory and impreſſions of Chriſt, and his wonderfull mercies in our hearts.</p>
+               <p>He will ſhew you alſo, as I have done, how this practiſe is confir<g ref="char:EOLhyphen"/>med unto us by the examples of the godly people in the Scripture, who have appointed ſet and yearly dayes for ſuch purpoſes, beſides thoſe that were commanded expreſly and particularly by God him<g ref="char:EOLhyphen"/>ſelfe. And I can adde that the ſame is yet further confirmed unto us, by the judgement and practice of holy men in the Chriſtian Church, not only of the Ancients, but of many famous moderne Proteſtant Di<g ref="char:EOLhyphen"/>vines.
+<pb n="16" facs="tcp:101967:9" rendition="simple:additions"/>As <hi>Melancthon, Hemingins, Scultetus, &amp;c.</hi> all which being put into the ſame ſcale with the Authority of the Church of Eng<g ref="char:EOLhyphen"/>land, and the Law, which hath yet found no Authority equall unto it, to diſſolve the Acts thereof in this kinde, will I doubt not weigh downe all the ſeeming reaſons or divinity upon which you have grounded your Quaries.</p>
+            </div>
+            <div type="part">
+               <head>To your eighth Quaere.</head>
+               <p>
+                  <hi>Whether the true and genuine Interpretation of</hi> Chriſtmas <hi>be</hi> Chriſtman? <hi>And whether to perſwade people'tis ſo, be not to abuſe and delude them? And whether we may not as well inter<g ref="char:EOLhyphen"/>pret</hi> Candlemas Candleman, Michaelmas Michaelman, <hi>as</hi> Chriſtmas Chriſtman?</p>
+               <p>
+                  <hi>Anſwer,</hi> That this is a queſtion ſo childiſh of ſo vaine importance, and ſo of no concernement at all to the buſineſſe propounded: That I might be excuſed if I ſhould ſay no more, but either to wiſh you more wiſdome and ſobriety in the things of God and his Church, or if you know any that is guilty of making ſo fooliſh a deſcant upon that name of <hi>Chriſtmas</hi> as your Quaere preſents, to leave you to him for a Reply; neither the Church of England nor I are bound to ju<g ref="char:EOLhyphen"/>ſtifie the follies of particular men: But leaſt your inſinuated quarrell at the name of <hi>Chriſtmas,</hi> ſhould meete with any ſuch weake judge<g ref="char:EOLhyphen"/>ments, as to produce any ſcruple (premiſing this, that theſe are things that neither the Church of England, nor I conceive any diſcreet childe thereof will ſtand upon any further then they ſerve to make us under<g ref="char:EOLhyphen"/>ſtand one another, and I wiſh all quarrels about names were ſo at an end amongſt us) I ſay yet further, that the interpretation of learned Biſhop. <hi>Andrewes</hi> might have beene better thought on by you, then that fond one you have mentioned, reducing Chriſt-mas to <hi>Chriſti miſſa,</hi> and taking <hi>miſſa</hi> for <hi>miſſio;</hi> ſo that it may preſent the impor<g ref="char:EOLhyphen"/>tance of the Feaſt. <hi>Viz.</hi> The ſending of Chriſt into the world, or if this be liable to ſome exception; yet it cannot be denyed but the word Maſſe, however it hath been corrupted in latter times, is from <hi>miſſa,</hi> and I believe you may finde that the word <hi>miſſa</hi> hath been of good uſe in the Church, and derived from a good and laudable cuſtome
+<pb n="17" facs="tcp:101967:9" rendition="simple:additions"/>of diſmiſſing the <hi>Catechumeni</hi> before the Communion in the Primi<g ref="char:EOLhyphen"/>tive times, and may import as much as the Office, or Communion of the faithfull, and then Chriſts-maſſe may ſound as much as the Office or Communion of the faithfull upon Chriſts day, or in the praiſe of Chriſt, or in memoriall of him; or if you are loath to admit of this in juſtification of the word <hi>miſſa,</hi> I intreate you yet to allow thus much: That however evill the word is in the uſe of the Church of Rome, yet ſince you know it hath no ſuch evill importance in the ſenſe of the Church of England (and it is not unlawfull to reforme the abuſe of words as well as things) there can be no harme in the uſe of that title for diſtinction, no more then it was for St. <hi>Luke</hi> in the 17. of the Acts v. 22. to comply ſo far with cuſtome as to call the ſtreet in Athens by the name of <hi>Mars</hi> his ſtreet, although <hi>Mars</hi> were an Heathen Idol, or to call <hi>Dionyſius</hi> by the title of the <hi>Areopagite</hi> v. 34. I adviſe you therefore to take the Counſell of St. <hi>Paul</hi> hereafter, for your owne good and the quiet of others, and the Church, that in<g ref="char:EOLhyphen"/>ſtead of being ſuch a one as he condemneth, 1. <hi>Tim.</hi> 6.4.5. ſick of a ſpirituall tympany, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>doating or madding a<g ref="char:EOLhyphen"/>bout queſtions and ſtrife of words, whereof commeth envy, ſtrife, railings, evill ſurmiſings, froward diſputations of men of corrupt mindes, and de<g ref="char:EOLhyphen"/>ſtitute of the truth;</hi> you would become ſuch as he adviſeth, 2. Tim. 14.23. <hi>That you ſtrive not about words, which is to no profit, but to the perverting of the hearers;</hi> and that you would <hi>put away fooliſh and unlearned queſtions, knowing that they engender ſtrife.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>To your ninth Quaere.</head>
+               <p>
+                  <hi>Whether the Saints are bound to rejoyce in the Birth of Chriſt on that day men ſuperſtitiouſly call</hi> Chriſtmas, <hi>more then at o<g ref="char:EOLhyphen"/>ther times? And whether the Lords day be not [the] day ap<g ref="char:EOLhyphen"/>poynted for them to rejoyce on?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Leaving your imputation that you lay of ſuperſtition upon the name of <hi>Chriſtmas</hi> to the correction of that which hath been alrea<g ref="char:EOLhyphen"/>dy ſayd unto the Quaere next before. I anſwer, that though Chriſtians
+<pb n="18" facs="tcp:101967:10" rendition="simple:additions"/>are bound at all times to rejoyce in the birth of Chriſt, which is ſuffi<g ref="char:EOLhyphen"/>cient to condemne the boldneſſe of thoſe that forbid men upon any time or day to do it by that rule of the Apoſtle, <hi>Philipp.</hi> 44. Rejoice in the Lord alway, and againe I ſay rejoyce; yet to helpe our infirmi<g ref="char:EOLhyphen"/>ties, and to ſtir up our backwardneſſe, and to make for the greater cheerfulneſſe and ſolemnity of this joy, the Church hath done well and piouſly to appoint ſome ſpeciall times to call us together to re<g ref="char:EOLhyphen"/>joyce in the great mercies of God, and in that regard it is more eſpe<g ref="char:EOLhyphen"/>cially required of all her Children to do it at ſuch times then at other times, and the fault is the greater to omit it then, in as much as to the neglect of the univerſall duty is added the ſinne of diſobedience a<g ref="char:EOLhyphen"/>gainſt the wholeſome orders of the Church, and a diviſion the rein of our ſelves from the Body, and a denyall of that concurrence and aſſiſt<g ref="char:EOLhyphen"/>ance that wee ought to give in the communion and fellowſhip of Gods people in thoſe things which are publickly performed for the celebration of the praiſe and worſhip of God, and for the advance<g ref="char:EOLhyphen"/>ment of divine comforts in the Congregations. And though it be true that the Lords day is a day wherein they ought to rejoyce, which yet as to the particular day, is but an holy circumſtance, and a matter of order, though eſtabliſhed by great Authority, notwithſtanding it is not (the) day in ſuch a ſence, as your parentheſis would perhaps in<g ref="char:EOLhyphen"/>ſinuate, as to exclude all other dayes from the buſineſſe of ſolemne re<g ref="char:EOLhyphen"/>joycing in Gods mercies; for how then will the fifth of <hi>November,</hi> and the dayes of Thankſgiving, that have beene of late appoynted, be juſtified? and thesefore your queſtion makes nothing againſt our con<g ref="char:EOLhyphen"/>cluſion; for though that day be to be obſerved for a day of joy it. God, it doth not forbid others to be ſo employed.</p>
+            </div>
+            <div type="part">
+               <head>To the tenth Quaere.</head>
+               <p>
+                  <hi>Whether</hi> Chriſtmas <hi>day ought in any reſpect to be eſteemed above another of the Weeke dayes? And whether people may not without offence to God follow their lawfull vocations on that day?</hi>
+               </p>
+               <p>
+                  <hi>Anſwer,</hi> In it ſelfe no day is neceſſarily to be eſteemed better then another; for as the Apoſtle tells us, <hi>he that eſteemeth all dayes alike doth
+<pb n="19" facs="tcp:101967:10" rendition="simple:additions"/>it to the Lord.</hi> But in the uſe of it, as a matter of order, and as it is dedicated by a lawfull power in the Church, in a more eſpeciall man<g ref="char:EOLhyphen"/>ner then the reſt, in reſpect of obedience, order, and compliance with thoſe ſacred ends for which they are ſo deſigned, Chriſtmas day, and other Feſtivalls of the Church ought to be eſteemed above another day: For it is the duty of Chriſtians to comply with one another, and to obey Authority in thoſe things that are profitable and condu<g ref="char:EOLhyphen"/>cible to holy and good purpoſes: And therefore it will follow, that without neceſſity, for people to depart from this Rule, and to doe it with contempt of Authority, and to the diſcouragement and hinde<g ref="char:EOLhyphen"/>rance of ſuch holy ends and duties, by following their ordinary vo<g ref="char:EOLhyphen"/>cations which are lawfull at other times, is a breach of good order, a violation of unity, an hinderance to piety, and the holy Solemnity of ſuch times, as well as to doe it upon a day of Faſting or Humiliation, inſtituted by humane Authority: and cannot be ſo done without an offence to God.</p>
+            </div>
+            <div type="part">
+               <head>To your eleaventh Quaere.</head>
+               <p>
+                  <hi>Whether you thinke the Parliament and aſſembly have erred and played the fooles in condemning and r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſing out Holy dayes not warranted in the Word? And whether to obſerve them, be not highly to d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke and flatly to contradict (in poynt of practice at leaſt) their proceedings morder to a Reformation?</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> I doubt not to ſay that they have erred in divers reſpects: Firſt, in making unneceſſary changes in the Church, which ought not to be done, but upon urgent cauſes; but doth diſcover in them that doe it a love unto change, which the wiſe man condemneth, <hi>Prov.</hi> v. 4.21. and is ordinarily of evill conſequence to the Church, as wee finde by too lamentable experience; for whiſt the people like thoſe that are ſick of a Feaver have thought good <hi>mutationibus pro remediis nti,</hi> to take ſuch kinde of changes for medicines, their remedie, have pro<g ref="char:EOLhyphen"/>ved their greateſt diſeaſes; and now wee ſee how ſick they are grown of their Phyſitians, and how ſick the Phyſitians are of their owne ad<g ref="char:EOLhyphen"/>miniſtrations: Secondly, they have erred in going about to aboliſh ſo harmeleſſe and uſefull a meanes of the promoting of Gods glory,
+<pb n="20" facs="tcp:101967:11"/>and of the edification of the people: Thirdly, in undertaking to diſ<g ref="char:EOLhyphen"/>ſolve ſo laudable cuſtomes, and ſo univerſally and anciently received, and eſtabliſhed by full power of the State and Church, either without any Authority thereunto or by a power inferiour unto that, whereby they were conſtituted: Fourthly, in doing thoſe things without any admiſſion of thoſe that are contrary minded to be heard, or any faire diſcuſſion or debate of thoſe differences that are in mens judgements thereabout: and therefore their proceedings therein are, and may be juſtly diſliked and contradicted both by declaration and practice, with<g ref="char:EOLhyphen"/>out lying open to any ſuch charge as you mention of oppoſing procee<g ref="char:EOLhyphen"/>dings in order to Reformation, properly ſo called; ſuch undertakings with the reſt that are like them, being rather in order to a deformati<g ref="char:EOLhyphen"/>on. But whether in this they have playd the fooles, or no, I leave that to you to determine.</p>
+            </div>
+            <div type="part">
+               <head>To your twelfth Quaere.</head>
+               <p>
+                  <hi>Whether</hi> (<hi>ſince moſt men and women in</hi> England <hi>doe blindely and ſuperstitionſly beleeve Chriſt was borne that day</hi>) <hi>preaching on it, doth not nouriſh and ſtrengthen them in that beliefe?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Although it be admitted to be a matter of ſome uncertainty whether our Saviour were borne upon that day, or no, yet (it being not materiall unto the lawfulneſſe and wholſomneſſe of the obſerva<g ref="char:EOLhyphen"/>tion of the ſolemnity, as hath beene declared) if it bee an error in the people to apprehend ſo, yet it is an harmeleſſe one, and without the danger of ſuperſtition, which yet Preaching upon that day doeth ney<g ref="char:EOLhyphen"/>ther neceſſarily nouriſh nor ſtrengthen in them. I ſhall not deny but there hath beene ſome difference in Antiquity concerning the very day upon which Chriſt was borne: but <hi>Hospinian,</hi> who was no friend unto the Church in theſe things, confeſſeth, That from the moſt anci<g ref="char:EOLhyphen"/>ent times, it was celebrated on the 25. of <hi>December;</hi> which hee proo<g ref="char:EOLhyphen"/>veth out of <hi>Theophylus,</hi> a very ancient Biſhop of <hi>Ceſaren Paleſtine,</hi> who lived about the time of <hi>Commodus</hi> and <hi>Severus</hi> the Emperours. The Arguments that are brought againſt the reception of this day, for the very day of our Saviours Birth, from the impoſition of the Taxe of the Romane Emperour, and from the ſhepheards watching of their
+<pb n="21" facs="tcp:101967:11" rendition="simple:additions"/>ſheepe by night, are not at all concludent, but of weake importance, to overthrow ſo ancient and received an opinion in the Church: Though that time might be leſſe convenient for people to travell into their owne Countries, as was required in that impoſition of <hi>Auguſtus,</hi> yet it is no ſtrange thing in Magiſtrates, and thoſe both prudent and pious, to paſſe through ſuch ſmall and private inconveniences for the obtaining ſupplies of publique neceſſities; it would be a very weake argument, if any ſhould heereafter undertake to prove this unhappy Parliament began not in <hi>November,</hi> becauſe that Moneth is uſually none of the beſt ſeaſons to travell from the ſeverall parts of this Kingdome to <hi>London</hi> in. And though ſheepe are tender creatures, yet that ſeaſon is not of, the ſame bitterneſſe in all Climates, and if I miſtake not, as tender as they are, they are even in this Northerne and cold Climate folded ſometimes without dores in the winter: if the difference about this point be ſuch that no certaine reſolution can bee found, it is lawfull for the Church to make choice of ſuch a day for the purpoſe of this ſolemnity, as appeares moſt convenient. And what day more convenient, then that which as it is confeſſed to have beene moſt anciently received, ſo is commended too by the univerſality of the practiſe and conſent at leaſt of all the Weſterne Churches therein? and if God be ſerved and prayſed by us in ſuch holy and ſolemne ma<g ref="char:EOLhyphen"/>ner as is due for ſo great a mercy, upon that day which the Church hath injoyned, it will be, no doubt, as acceptable to God, as if it were done upon ſome other day of your choyce, whether it be the very day of Chriſts birth or no: and I hope you doe thinke it fit, that ſome day or other may bee imployed in ſo good a buſineſſe. The onely queſtion then will remaine, whether the Church and Magiſtrate, or you bee fit<g ref="char:EOLhyphen"/>ter to chooſe, which is not worth the diſcuſſing.</p>
+            </div>
+            <div type="part">
+               <head>To the thirteenth Quaere.</head>
+               <p>
+                  <hi>Whether this</hi> Feaſt <hi>had not its riſe and growth from Chriſti<g ref="char:EOLhyphen"/>ans conformity to the mad Feaſts</hi> Saturnalia (<hi>kept in</hi> December <hi>to</hi> Saturne <hi>the Father of Gods</hi>) <hi>in which there was a Sheafe of<g ref="char:EOLhyphen"/>fered to</hi> Ceret <hi>Goddeſſe of Corne; a hymne in her praiſe called</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>? <hi>And whether thoſe Chriſtians by name, to cloake
+<pb n="22" facs="tcp:101967:12"/>it, did not afterwards call it</hi> Yule; <hi>and</hi> Chriſtmas <hi>(as though it were for Chriſts honour?) And whether it be not yet by ſome (more ancient then truely or knowingly religious) called</hi> Yule, <hi>and the mad playes (wherewith 'tis celebrated like thoſe</hi> Saturna<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) Yule <hi>games? And whether from the offering of that Sheafe to</hi> Ceres; <hi>from that ſong in her praiſe; from thoſe gifts the Heathens gave their friends in the Calends of</hi> January, om<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is gratia, <hi>did not ariſe or ſpring our blazes;</hi> Chriſtma <hi>Kariles, and</hi> New-yeares <hi>gifts?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> That the originall and growth of ſo pious and holy a pra<g ref="char:EOLhyphen"/>ctiſe in the Chriſtian Church, ſhould be allowed no other root but a ſuppoſed conformity of Chriſtians to the madde feaſts of <hi>Saturnalia,</hi> when there are ſo many better and clearer fountaines to derive this from, in the order that it hath unto Scripture end and duties, to Goſpel and Chriſtian performances, and in the warrant that it hath from Scri<g ref="char:EOLhyphen"/>pture examples in like matters, is an argument of ſome want of charity in thoſe that goe about to infect men with ſuch perſwaſions. Charity engageth us to judge the beſt even of the actions of private men, much more of the publike conſtitutions and obſervations of the Church; what ever abuſes have beene brought in by wicked and looſe men to corrupt and deprave theſe wholeſome ordinances, (which we approve not nor will undertake to juſtifie) There is no conformity nor com<g ref="char:EOLhyphen"/>pliance at all, betweene the holy aymes and intentions of the Church of God, in the appointment of this or other feſtivalls, and the fran<g ref="char:EOLhyphen"/>ticke, looſe, and impious manage of the <hi>Saturnalia</hi> among the Hea<g ref="char:EOLhyphen"/>thens. Theſe are appointed by the Church to bee dayes of piety and ſobriety, of prayſe unto God for his great mercies, of ſpirituall joy in his divine comforts and holy delights in our Chriſtian ſocieties, of ho<g ref="char:EOLhyphen"/>ſpitality and mutuall offices of Chriſtian love one to another, which are the true and proper employments of holy feſtivalls, commended and warranted unto us by the word of God. If any practiſes have crept in (as there have too many) to the depravation of theſe times, and diſappointment of thoſe ends for which they were inſtituted, by riot and looſenes, or ſuch rude cariages and demeanours which may be too truly ſorted with the Heatheniſh <hi>Saturnalia,</hi> they have been an<g ref="char:EOLhyphen"/>ciently reproved, as <hi>Hoſpinian</hi> will informe you by that which hee
+<pb n="23" facs="tcp:101967:12" rendition="simple:additions"/>hath cited out of that famous Oration of <hi>Gregory Nazianzen</hi> upon the Nativity of Chriſt: And he will tell you a Story too if you will beleeve it of one <hi>Otherus</hi> and ſome others to the number of 15. who being reproved by <hi>Rupertus</hi> a Prieſt for prophaning that night of our Lords Nativity, by light and laſcivious dancing and ſinging, and required from him <hi>ut ab hujuſmodi lsvitate in nocte tam ſancta deſiſterent: That they would deſiſt from ſuch lenity in ſo holy a night,</hi> when they would not yeeld unto this wholeſome advice, But perſiſted in the vaine exerciſes they were about, upon the prayer of <hi>Rupertus</hi> that they might continue dancing ſo all the yeare long, They did ſo continue night and day for the ſpace of a whole yeare: and he cites <hi>Trithemius in chron. Hirſang.</hi> for the Authour of this Story; which if it be true doth not at all oppoſe, but confirme theſe conſtitutions of the Church, as the judgements of God ſent upon thoſe that are the prophaners of the Lords day, are brought to juſtifie the obſervation thereof; it doth indeede diſ<g ref="char:EOLhyphen"/>allow the abuſes thereof, which as they were anciently condem<g ref="char:EOLhyphen"/>ned, ſo wee condemne them ſtill, being contrary <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to the righte<g ref="char:EOLhyphen"/>ous commands of God, ſo to the wholeſome inſtitutions of the Church: I earneſtly exhort all Chriſtians carefully to avoyd all ſuch courſes and miſcarriges, and to ſanctifie this and other ſuch like Feſtivalls unto God in holy and Chriſtian duties as they ought, and the Church enjoynes, left they anſwer the contrary dearely unto God, as well for the enormity of their vitious carriages, as for the prophanation and ſcandall that they thereby bring upon theſe profitable Orders of the Church, and their ſacrilegious rob<g ref="char:EOLhyphen"/>bing of God of ſuch times which are conſecrated to his Divine Worſhip, That they may employ them in the ſervice of the De<g ref="char:EOLhyphen"/>vill: But in the meane time I cannot but wonder at the ſtrange diſpenſations of theſe times, wherein for ought appeares, there is more ſtrictnes uſed againſt the preaching of the word of God, and holy exerciſes upon theſe dayes, then againſt any of the foreſayd abuſes and miſcariages. Wee have heard of the perſecution and impriſonment of Miniſters for attempting to preach the Word of God, upon the feſtivall of Chriſts Nativity, and of ſtrict and forci<g ref="char:EOLhyphen"/>ble prohibition thereof; but whether there hath beene halfe ſo much ſtrictneſſe againſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iot, or lightneſſe, or vanity, at ſuch times, let it be conſidered; and ſurely ſuch dealing is no good character
+<pb n="24" facs="tcp:101967:13"/>of a Reformation. They that do ſo, winnow not with Gods ſieve, but the D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vels, ſhaking out the wheat, and retayning the chaffe; they are no good Phyſitians, that purge out the good and whole<g ref="char:EOLhyphen"/>ſome humours, and leave thoſe that are corrupt and diſtempered behind, nor is this the way to procure health unto the body. In the name of God if they meane to reforme, as they talke, let them di<g ref="char:EOLhyphen"/>ſtinguiſh betweene good and evill, betweene healthfull and pro<g ref="char:EOLhyphen"/>fitable inſtitutions, and pernicious and abuſive depravations, and let theſe be removed, and thoſe eſtabliſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d: if it doth appeare that the time of this Feſtivall doth comply with the time of the Hea<g ref="char:EOLhyphen"/>thens <hi>Saturnalia,</hi> This leaves no charge of impiety upon it; for ſince things are beſt cured by their contraries<g ref="char:punc">▪</g> it was both wiſe<g ref="char:EOLhyphen"/>dome and piety in the ancient Chriſtians, (whoſe work it was to convert the Heathens from ſuch as well as other ſuperſtitions and miſcarriages) To vindicate ſuch times from that ſervice of the Devill, by appoynting them to the more ſolemne and eſpeciall ſer<g ref="char:EOLhyphen"/>vice of God and to recall people from that practiſe of wickedneſſe by calling them unto the practiſe of true holineſſe thereupon. As for that you adde about your <hi>Yule</hi> games, it is not materiall, after that which hath beene ſayd, and therefore for brevity ſake I paſſe it over. The Blazes are fooliſh and vaine, and not countenanced by the Church. Chriſtmaſſe Kariles if they be ſuch as are fit for the time, and of holy and ſober compoſures, and uſed with Chriſtian ſobriety and piety, they are not unlawfull, and may be profitable, if they be ſung with grace in the heart. New yeares gifts, if per<g ref="char:EOLhyphen"/>formed without ſuperſtition (and you muſt have ground ere you may charge them with it) may be harmles provocations to Chriſtian love, and mutuall teſtimonies thereof to good purpoſe, and never the worſe, becauſe the Heathens have them at the like times. The Heathens uſe to eate at noone, and ſo doe wee, if it be harme<g ref="char:EOLhyphen"/>leſſe to joyne with them in houres deſigned for acts of nature; why not in dayes deſigned by us for acts of love and mutuall af<g ref="char:EOLhyphen"/>fection; if thoſe dayes and their practice thereupon be tainted with ſuperſtition, it will not follow that ours muſt needes be ſo, or is it not lawfull for us to employ thoſe dayes well, becauſe they doe ill? But this is no Religious but a Civill matter, and therefore not requiſite to ſtand much upon it; no great matter whether that cuſtome be held up or no, and yet there is no need
+<pb n="25" facs="tcp:101967:13" rendition="simple:additions"/>in ſuch times as theſe to diſcourage and forbid acts of love and mu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uall kindeneſſe. This Age is not Gok of any ſuperfluities in this kinde in the generall, and therefore no great needs of phyſick for ſuch diſeaſes: Trouble not your ſelfs therefore any more about this matter; if you diſlike New-yeares gifts. I would adviſe your Pariſhioners not to trouble your conſcience with them, and all will be well.</p>
+            </div>
+            <div type="part">
+               <head>To your fourteenth Quaere.</head>
+               <p>
+                  <hi>Whether conformity to, and recention of Heatheniſh Cuſtomes be commendable in Chriſtians, ſutable or agreeable with Goſpel Principles, though under pretext of Chriſts Honour and Wor<g ref="char:EOLhyphen"/>ſhippe?</hi>
+               </p>
+               <p>
+                  <hi>Anſwer,</hi> You ſeeme to me to be ignorant, and have taken up opinions at too eaſie a rate; give me leave therefore to informe you a little: All Cuſtomes are not Heatheniſh that are obſerved among Heathens; it is a cuſtome with Heathens to kneele at prayer, yet this is no Heathemſh cuſtome; it is a cuſtome with Heathens to inſtiture publique Faſts, and dayes of Humiliation in times of danger and calamity, will you ſay therefore that Chriſtians are Heatheniſh, or comply with Heatheniſh cuſtomes in doing the like? Or if wee may joyne with them in appoyn<g ref="char:EOLhyphen"/>ting dayes of faſting, why not as well in appoynting dayes of feaſting, as long as wee joyne not with them in ſuperſtition a<g ref="char:EOLhyphen"/>bout either? Wee muſt not deny Chriſt becauſe the Devills con<g ref="char:EOLhyphen"/>feſſed him. It is no good Chriſtianity in the people of this Age to hate their brethren, becauſe the Publicans are friendly unto theirs, <hi>Math.</hi> 5.47. Wee are not ſure bound to prophane all times that the Heathens have ſuperſtitiouſly conſecrated, if wee are, I doubt you will ſcarce have halfe an houre in the day or night left you for your devotions: Wee may joyne with Heathens or any in thoſe things, that are good and wholeſom. Heatheniſh cuſtomes cannot be good, but many cuſtomes of Heathens may: They have learnt, it is probable many practiſes of Religion from
+<pb n="26" facs="tcp:101967:14" rendition="simple:additions"/>the people of God, and have corrupted the Coppies that they have taken from the Originalls, it is not neceſſary therefore for Gods people to caſt away the Originalls which are pure and good. Heatheniſh cuſtomes are ſuch as ſtand oppoſite to the doctrine of Chriſt and the Goſpel: The Religious obſervation of theſe Feſtivalls makes for both; to appoynt and obſerve a day holyly and religiouſly for the ſolemne praiſe of God for Chriſt, and Goſpel mercies, cannot be ſayd to be againſt Chriſt or the Goſpel; ſince the former is honoured, and the latter preached and publiſhed by this meanes: This therefore is no Heatheriſh cuſtome; take you keed of complying with an Heatheniſh de<g ref="char:EOLhyphen"/>ſigne of aboliſhing the memory of Chriſt and Chriſtianity from amongſt us, it is a danger worthy of a double caution, it is not a pretext o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chriſts honour, But the truth thereof that juſtifies theſe dayes, and is the proper and holy buſineſſe of them; wee de<g ref="char:EOLhyphen"/>ſire not to march under ſuch colours, but leave them rather to thoſe that under pretext of Religion are buſie to overthrow all Religi<g ref="char:EOLhyphen"/>on amongſt us: I neede not tell you who they are, but wiſh you take neede of them.</p>
+            </div>
+            <div type="part">
+               <head>To your fifteenth Quaere.</head>
+               <p>
+                  <hi>Whether you are not bound to prove your practice for the con<g ref="char:EOLhyphen"/>viction and ſatisfaction of your Brethren, whoſe duty it is to walke with you in things agreeable to the minde of Chriſt? And in c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe you cannot; Whether you ought not to acknowledge your errour, lay downe your practice (as others have done theirs) no longer befooling and m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſleading the people committed to your charge?</hi>
+               </p>
+               <p>
+                  <hi>Anſwer,</hi> I have ſayd thus much for your conviction and ſatiſ<g ref="char:EOLhyphen"/>faction, and wiſh it may worke ſo well with you, that as it is your duty, ſo it may be your practice to walke with us in things agreea<g ref="char:EOLhyphen"/>ble to the minde of Chriſt; and therefore I hope wee are ſuffici<g ref="char:EOLhyphen"/>ently diſcharged from any neceſſity of confeſſing any errour in
+<pb n="27" facs="tcp:101967:14" rendition="simple:additions"/>theſe things, and that it doth by this time appeare that there is much more neede of reforming yours, and of laying downe your practice as others have done theirs, no longer befooling nor miſ<g ref="char:EOLhyphen"/>leading the people committed unto your Charge; that you may from hence forth teach them the wayes of peace and righteouſnes.</p>
+            </div>
+            <div type="part">
+               <head>To your ſixteenth Quaere.</head>
+               <p>
+                  <hi>Whether in caſe you returne no Anſwer to theſe Quaeries, I have not ground ſufficient to conclude you utterly unable to give any rationall account of your practice, now put upon it?</hi>
+               </p>
+               <p>
+                  <hi>Anſwer,</hi> Sir, you have an Anſwer to your Quaeries, and there<g ref="char:EOLhyphen"/>fore have no ground left you ſufficient to conclude us unable to give any rationall account of our practice, which I wiſh you may receive with a Chriſtian minde, that you and others may reape the fruit thereof: Let your Study be Unity, for that is the way to felicity.</p>
+               <p>The God of peace and holyneſſe direct you and us all into the wayes of peace and holyneſſe, that wee may no longer foſter di<g ref="char:EOLhyphen"/>viſions and ſtrife amongſt us, to the joy of our adverſaries, and the reproach of the Goſpel; but that following the truth in love, wee may in all things grow up into him, which is the head, even Chriſt.</p>
+            </div>
+            <div type="part">
+               <head>Now for all the paines I have taken to anſwer you Quaeries, I ſhall deſire you to anſwer but one of mine, <hi>viz.</hi>
+               </head>
+               <p>
+                  <hi>Whether you think doth ſavour of moſt plety and good will un<g ref="char:EOLhyphen"/>to Chriſt and his honour, to forbid the preaching of Gods word, and the celebration of the praiſe of God for his great mercies u<g ref="char:EOLhyphen"/>pon the</hi> 25 <hi>of</hi> December, <hi>or upon any other day, or to enjoyne it? Or whether it becomes Chriſtians to prohibit the worke of God at any time?</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:101967:15" rendition="simple:additions"/>
+               <head>An addition of ſome teſtimonies out of Antiquity concerning this Feſtivall.</head>
+               <p>
+                  <hi>Theophaniam hoe noſtrum feſtum nominamus, in quo mundi ſaluta rem concelebramus diem 'Domini natalem,</hi> Baſil, in Serm. de huma<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Cariſti generatione.</p>
+               <p>
+                  <hi>Feſtum eſt omnium Feſtorum maximè venerandum, quod ſi q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is ap<g ref="char:EOLhyphen"/>pellet omnium Feſtorum Metropolim, hand quaquam aberret,</hi> Chry<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſtomus in Oratione pro Philogonio.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>natales ſervatoris &amp;</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>adventum ſeu ap<g ref="char:EOLunhyphen"/>paritionem vocat.</hi> Nazianz.</p>
+               <p>
+                  <hi>Natalem 'Domini ſicut &amp; paſcha, &amp; pentecoſtim majora ſolem<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> vocat,</hi> Beda. lib. 5. c. 19.</p>
+               <p>The Antiquity of this Feaſt is ſo great, that <hi>Hoſpinian</hi> confeſ<g ref="char:EOLhyphen"/>ſeth, <hi>Quando &amp; a quo hoe Feſtum inſtitutum ſit certo ſciri non poteſt.</hi> So that for ought he or any can ſay againſt it, it may have its inſti<g ref="char:EOLhyphen"/>tution even from the Apoſtles themſelves.</p>
+               <p>The ſame Authour acknowledgeth the mention of it to have been very Ancient in the Church, by <hi>Theophilus</hi> Biſhop of <hi>Caeſa<g ref="char:EOLhyphen"/>rea Palaeſtinae,</hi> who lived about the time of <hi>Commodus</hi> and <hi>Severus.</hi>
+               </p>
+               <p>And he ſhe weth how afterwards in the time of <hi>Maximinus</hi> this Feſtivall was glorified by the Martyrdome of divers Chriſtians at <hi>Nicomedia,</hi> who were there burnt together with the Church wherein they were celebrating this boly day, ſee <hi>Nicepho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us, lib.</hi> 7. <hi>cap.</hi> 6. and wee have good reaſon to believe theſe Martyrs were as good Chriſtians as ſome that would ſequeſter the holyneſſe of Feaſts, Churches, and all other men upon earth, ſcarcely ſparing the Saints in Heaven, that they may arrogate the Title of holynes and ſaintſhip onely to themſelves.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101967:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
